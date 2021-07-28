@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # hnshqwsoqwhsioqwds
+:::info
 https://gavinlin512.github.io/onepage/04-12%20personal%20project.html
