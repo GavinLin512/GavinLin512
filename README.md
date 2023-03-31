@@ -45,7 +45,7 @@ On the way of become a Full-Stack developer.
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gavinlin512&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gavinlin512&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gavinlin512&theme=chartreuse-dark&hide_border=true&langs_count=10)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinlin512&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
