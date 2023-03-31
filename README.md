@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Grayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinlin512&theme=radical)](https://github.com/gavinlin512/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinlin512&layout=compact)](https://github.com/gavinlin512/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinlin512&layout=compact&langs_count=8)](https://github.com/gavinlin512/github-readme-stats)
