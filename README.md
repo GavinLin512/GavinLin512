@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 [![Grayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinlin512&theme=tokyonight)](https://github.com/gavinlin512/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinlin512&theme=tokyonight2&layout=compact&langs_count=10)](https://github.com/gavinlin512/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinlin512&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/gavinlin512/github-readme-stats)
